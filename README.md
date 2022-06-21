@@ -1,2 +1,2 @@
 # test-ramy
-Bu bir testtir
+Bu bir test
